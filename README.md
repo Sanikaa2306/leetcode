@@ -265,6 +265,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Sanikaa2306/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/Sanikaa2306/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sanikaa2306/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
 |  |
@@ -274,6 +275,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Sanikaa2306/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/Sanikaa2306/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sanikaa2306/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
@@ -282,5 +284,14 @@ https://doocs.github.io/leetcode
 ## Sorting
 |  |
 | ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/Sanikaa2306/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sanikaa2306/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/Sanikaa2306/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/Sanikaa2306/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
