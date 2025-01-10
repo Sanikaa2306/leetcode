@@ -254,6 +254,7 @@ https://doocs.github.io/leetcode
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sanikaa2306/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sanikaa2306/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sanikaa2306/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -266,6 +267,7 @@ https://doocs.github.io/leetcode
 ## Array
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Sanikaa2306/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sanikaa2306/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sanikaa2306/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -273,6 +275,7 @@ https://doocs.github.io/leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sanikaa2306/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
