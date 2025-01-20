@@ -273,11 +273,13 @@ https://doocs.github.io/leetcode
 | [2164-two-best-non-overlapping-events](https://github.com/Sanikaa2306/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sanikaa2306/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sanikaa2306/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Sanikaa2306/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sanikaa2306/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Sanikaa2306/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Binary Search
 |  |
 | ------- |
@@ -310,4 +312,5 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Sanikaa2306/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 <!---LeetCode Topics End-->
