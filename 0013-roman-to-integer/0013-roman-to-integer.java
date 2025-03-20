@@ -1,32 +1,36 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public int romanToInt(String s) {
-        Map<Character, Integer> romanMap = new HashMap<>();
-        romanMap.put('I', 1);
-        romanMap.put('V', 5);
-        romanMap.put('X', 10);
-        romanMap.put('L', 50);
-        romanMap.put('C', 100);
-        romanMap.put('D', 500);
-        romanMap.put('M', 1000);
-        
-        int total = 0;
-        int prevValue = 0;
-        
+        int ans = 0, num = 0;
         for (int i = s.length() - 1; i >= 0; i--) {
-            int currentValue = romanMap.get(s.charAt(i));
-            
-            if (currentValue < prevValue) {
-                total -= currentValue;
-            } else {
-                total += currentValue;
+            switch (s.charAt(i)) {
+                case 'I':
+                    num = 1;
+                    break;
+                case 'V':
+                    num = 5;
+                    break;
+                case 'X':
+                    num = 10;
+                    break;
+                case 'L':
+                    num = 50;
+                    break;
+                case 'C':
+                    num = 100;
+                    break;
+                case 'D':
+                    num = 500;
+                    break;
+                case 'M':
+                    num = 1000;
+                    break;
             }
-            
-            prevValue = currentValue;
+            if (4 * num < ans)
+                ans -= num;
+            else
+                ans += num;
         }
-        
-        return total;
+        return ans;
+
     }
 }
