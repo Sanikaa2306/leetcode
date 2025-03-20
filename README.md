@@ -255,6 +255,7 @@ https://doocs.github.io/leetcode
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sanikaa2306/leetcode/tree/master/0013-roman-to-integer) |
 | [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sanikaa2306/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sanikaa2306/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -280,6 +281,7 @@ https://doocs.github.io/leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sanikaa2306/leetcode/tree/master/0013-roman-to-integer) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sanikaa2306/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sanikaa2306/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -322,4 +324,8 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sanikaa2306/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Sanikaa2306/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
