@@ -328,6 +328,7 @@ https://doocs.github.io/leetcode
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Sanikaa2306/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sanikaa2306/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sanikaa2306/leetcode/tree/master/0013-roman-to-integer) |
 ## Bit Manipulation
