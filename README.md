@@ -255,6 +255,7 @@ https://doocs.github.io/leetcode
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sanikaa2306/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sanikaa2306/leetcode/tree/master/0013-roman-to-integer) |
 | [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sanikaa2306/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -282,6 +283,7 @@ https://doocs.github.io/leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sanikaa2306/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sanikaa2306/leetcode/tree/master/0013-roman-to-integer) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sanikaa2306/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
@@ -330,6 +332,7 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0007-reverse-integer](https://github.com/Sanikaa2306/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sanikaa2306/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Sanikaa2306/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sanikaa2306/leetcode/tree/master/0013-roman-to-integer) |
 ## Bit Manipulation
 |  |
