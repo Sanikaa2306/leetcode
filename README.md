@@ -248,6 +248,7 @@ https://doocs.github.io/leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sanikaa2306/leetcode/tree/master/0011-container-with-most-water) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sanikaa2306/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sanikaa2306/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sanikaa2306/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -270,6 +271,7 @@ https://doocs.github.io/leetcode
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sanikaa2306/leetcode/tree/master/0011-container-with-most-water) |
 | [0407-trapping-rain-water-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sanikaa2306/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
@@ -298,6 +300,7 @@ https://doocs.github.io/leetcode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sanikaa2306/leetcode/tree/master/0011-container-with-most-water) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sanikaa2306/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
