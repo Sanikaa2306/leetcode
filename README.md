@@ -361,4 +361,12 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanikaa2306/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sanikaa2306/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sanikaa2306/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
