@@ -264,6 +264,7 @@ https://doocs.github.io/leetcode
 | [0014-longest-common-prefix](https://github.com/Sanikaa2306/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanikaa2306/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sanikaa2306/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sanikaa2306/leetcode/tree/master/0022-generate-parentheses) |
 | [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sanikaa2306/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sanikaa2306/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -324,6 +325,7 @@ https://doocs.github.io/leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sanikaa2306/leetcode/tree/master/0022-generate-parentheses) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sanikaa2306/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sanikaa2306/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
@@ -367,6 +369,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanikaa2306/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sanikaa2306/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Sanikaa2306/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0047-permutations-ii) |
 ## Linked List
