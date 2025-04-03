@@ -281,6 +281,7 @@ https://doocs.github.io/leetcode
 | [0015-3sum](https://github.com/Sanikaa2306/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanikaa2306/leetcode/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/Sanikaa2306/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0047-permutations-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sanikaa2306/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
@@ -317,6 +318,7 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0015-3sum](https://github.com/Sanikaa2306/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanikaa2306/leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0047-permutations-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sanikaa2306/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sanikaa2306/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Dynamic Programming
@@ -366,6 +368,7 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanikaa2306/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Sanikaa2306/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0047-permutations-ii) |
 ## Linked List
 |  |
 | ------- |
