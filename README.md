@@ -251,6 +251,7 @@ https://doocs.github.io/leetcode
 | [0011-container-with-most-water](https://github.com/Sanikaa2306/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sanikaa2306/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanikaa2306/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sanikaa2306/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sanikaa2306/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sanikaa2306/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sanikaa2306/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -281,6 +282,7 @@ https://doocs.github.io/leetcode
 | [0011-container-with-most-water](https://github.com/Sanikaa2306/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sanikaa2306/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanikaa2306/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sanikaa2306/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Sanikaa2306/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0047-permutations-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0407-trapping-rain-water-ii) |
