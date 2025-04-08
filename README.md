@@ -284,6 +284,7 @@ https://doocs.github.io/leetcode
 | [0015-3sum](https://github.com/Sanikaa2306/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanikaa2306/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanikaa2306/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sanikaa2306/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Sanikaa2306/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0047-permutations-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -310,6 +311,7 @@ https://doocs.github.io/leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sanikaa2306/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Sanikaa2306/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sanikaa2306/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sanikaa2306/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
