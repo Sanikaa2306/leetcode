@@ -253,6 +253,7 @@ https://doocs.github.io/leetcode
 | [0018-4sum](https://github.com/Sanikaa2306/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanikaa2306/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sanikaa2306/leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanikaa2306/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sanikaa2306/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sanikaa2306/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -268,6 +269,7 @@ https://doocs.github.io/leetcode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanikaa2306/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sanikaa2306/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sanikaa2306/leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanikaa2306/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sanikaa2306/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sanikaa2306/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -276,6 +278,7 @@ https://doocs.github.io/leetcode
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanikaa2306/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sanikaa2306/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sanikaa2306/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Array
