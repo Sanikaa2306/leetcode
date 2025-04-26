@@ -271,6 +271,7 @@ https://doocs.github.io/leetcode
 | [0022-generate-parentheses](https://github.com/Sanikaa2306/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanikaa2306/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Sanikaa2306/leetcode/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/Sanikaa2306/leetcode/tree/master/0079-word-search) |
 | [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sanikaa2306/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sanikaa2306/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -294,6 +295,7 @@ https://doocs.github.io/leetcode
 | [0035-search-insert-position](https://github.com/Sanikaa2306/leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Sanikaa2306/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Sanikaa2306/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sanikaa2306/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -354,6 +356,7 @@ https://doocs.github.io/leetcode
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sanikaa2306/leetcode/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sanikaa2306/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Simulation
@@ -388,6 +391,7 @@ https://doocs.github.io/leetcode
 | [0022-generate-parentheses](https://github.com/Sanikaa2306/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Sanikaa2306/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Sanikaa2306/leetcode/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -406,4 +410,8 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sanikaa2306/leetcode/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sanikaa2306/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
