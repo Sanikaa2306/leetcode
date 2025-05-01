@@ -251,6 +251,7 @@ https://doocs.github.io/leetcode
 | [0011-container-with-most-water](https://github.com/Sanikaa2306/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sanikaa2306/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanikaa2306/leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sanikaa2306/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanikaa2306/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sanikaa2306/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanikaa2306/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -395,6 +396,7 @@ https://doocs.github.io/leetcode
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sanikaa2306/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sanikaa2306/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sanikaa2306/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
