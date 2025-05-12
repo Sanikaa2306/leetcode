@@ -343,6 +343,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sanikaa2306/leetcode/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sanikaa2306/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sanikaa2306/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
@@ -394,6 +395,7 @@ https://doocs.github.io/leetcode
 | [0046-permutations](https://github.com/Sanikaa2306/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Sanikaa2306/leetcode/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -423,10 +425,16 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanikaa2306/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sanikaa2306/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanikaa2306/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sanikaa2306/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
