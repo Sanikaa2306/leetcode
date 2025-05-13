@@ -344,6 +344,7 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sanikaa2306/leetcode/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Sanikaa2306/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sanikaa2306/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sanikaa2306/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
@@ -375,6 +376,7 @@ https://doocs.github.io/leetcode
 | [0012-integer-to-roman](https://github.com/Sanikaa2306/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sanikaa2306/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Sanikaa2306/leetcode/tree/master/0043-multiply-strings) |
+| [0096-unique-binary-search-trees](https://github.com/Sanikaa2306/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -426,15 +428,18 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanikaa2306/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Sanikaa2306/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sanikaa2306/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanikaa2306/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Sanikaa2306/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sanikaa2306/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Sanikaa2306/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
