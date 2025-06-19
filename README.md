@@ -296,6 +296,7 @@ https://doocs.github.io/leetcode
 | [0035-search-insert-position](https://github.com/Sanikaa2306/leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Sanikaa2306/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Sanikaa2306/leetcode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/Sanikaa2306/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -343,6 +344,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sanikaa2306/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Sanikaa2306/leetcode/tree/master/0053-maximum-subarray) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Sanikaa2306/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sanikaa2306/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -442,4 +444,8 @@ https://doocs.github.io/leetcode
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Sanikaa2306/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sanikaa2306/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
