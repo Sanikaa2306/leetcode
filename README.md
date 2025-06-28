@@ -452,4 +452,5 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [1258-article-views-i](https://github.com/Sanikaa2306/leetcode/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/Sanikaa2306/leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
