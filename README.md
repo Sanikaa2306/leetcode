@@ -448,4 +448,8 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanikaa2306/leetcode/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/Sanikaa2306/leetcode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
