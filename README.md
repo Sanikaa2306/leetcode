@@ -299,6 +299,7 @@ https://doocs.github.io/leetcode
 | [0053-maximum-subarray](https://github.com/Sanikaa2306/leetcode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/Sanikaa2306/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Sanikaa2306/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sanikaa2306/leetcode/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sanikaa2306/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -316,6 +317,7 @@ https://doocs.github.io/leetcode
 | [0012-integer-to-roman](https://github.com/Sanikaa2306/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sanikaa2306/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanikaa2306/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/Sanikaa2306/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sanikaa2306/leetcode/tree/master/0217-contains-duplicate) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sanikaa2306/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Sanikaa2306/leetcode/tree/master/0952-word-subsets) |
@@ -340,6 +342,7 @@ https://doocs.github.io/leetcode
 | [0015-3sum](https://github.com/Sanikaa2306/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sanikaa2306/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/Sanikaa2306/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sanikaa2306/leetcode/tree/master/0217-contains-duplicate) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sanikaa2306/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Sanikaa2306/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -451,6 +454,7 @@ https://doocs.github.io/leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanikaa2306/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sanikaa2306/leetcode/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -460,4 +464,8 @@ https://doocs.github.io/leetcode
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sanikaa2306/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sanikaa2306/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Sanikaa2306/leetcode/tree/master/1827-invalid-tweets) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanikaa2306/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
