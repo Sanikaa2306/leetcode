@@ -297,6 +297,7 @@ https://doocs.github.io/leetcode
 | [0046-permutations](https://github.com/Sanikaa2306/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Sanikaa2306/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Sanikaa2306/leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Sanikaa2306/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanikaa2306/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Sanikaa2306/leetcode/tree/master/0169-majority-element) |
@@ -384,6 +385,7 @@ https://doocs.github.io/leetcode
 | [0012-integer-to-roman](https://github.com/Sanikaa2306/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sanikaa2306/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Sanikaa2306/leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Sanikaa2306/leetcode/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Sanikaa2306/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Bit Manipulation
 |  |
